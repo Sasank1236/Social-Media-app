@@ -1,0 +1,13 @@
+node_modules/
+.env
+.vscode/
+AppData/
+Cookies/
+Application Data/
+.mvn/
+*.log
+*.CSV
+*.blb
+*.parc
+build/
+dist/
